@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## New Section
 
 Here and there no matter where
+
+## And another section
+
+I'm unstoppable!

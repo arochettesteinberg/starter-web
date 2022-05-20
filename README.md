@@ -19,3 +19,7 @@ I'm unstoppable!
 This is my introduction
 
 ## Extra section
+
+### Copyright
+
+2022 Git.Training.

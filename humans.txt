@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Armand Rochette a.rochette@seinberg.de
 
 # THANKS
 
